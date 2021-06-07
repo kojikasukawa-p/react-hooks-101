@@ -12,7 +12,6 @@ const events = (state =[],action) => {
         default:
             return state
     }
-
 }
 
 export default events
